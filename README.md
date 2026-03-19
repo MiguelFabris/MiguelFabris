@@ -3,8 +3,9 @@
 <hr>
 
   <h1>Hello, I'm Miguel Olbera Fabris</h1>
-  <p>A little about me, I'm a Full-stack Developer, I'm from Brazil, São Paulo province 
-I am currently in the 3rd year of High School and I am finishing the technical course in Systems Development at SENAI - São Paulo</p>
+  <p>
+A little about me: I am a trained technician and Full-stack developer, from the state of São Paulo, Brazil.
+I am currently studying Systems Analysis and Development at SENAI University in São Paulo.</p>
   
   <h2>My skills</h2>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
